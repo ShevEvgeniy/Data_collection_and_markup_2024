@@ -12,7 +12,7 @@
 
 [Решение задачи 2 - запрос по client id через API сервиса Open Library](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_1/Client%20id.png)
 
-[Решение задачи 2 - запрос по client ID и городу через API сервиса Open Library](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_1/Client_id%26city.png)
+[Решение задачи 2 - запрос по client ID и через API сервиса Open Library](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_1/Client_id%26city.png)
 
 3. Сценарий Foursquare
 4. Напишите сценарий на языке Python, который предложит пользователю ввести интересующую его категорию (например, кофейни, музеи, парки и т.д.).
@@ -20,4 +20,4 @@
 6. Получите название заведения, его адрес и рейтинг для каждого из них.
 7. Скрипт должен вывести название и адрес и рейтинг каждого заведения в консоль.
 
-[Решение задач 3 - 7](https://github.com/AndreyOmi/GeekBrains_Data_collection_and_markup_2024/blob/main/Seminar_№1/homework_seminar_1_05-03-2024_.ipynb)
+[Решение задач 3 - 7](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_1/Lesson.ipynb)
