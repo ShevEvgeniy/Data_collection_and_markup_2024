@@ -12,7 +12,7 @@
 
 [Решение задачи 2 - запрос по client id через API сервиса Open Library](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_1/Client%20id.png)
 
-[Решение задачи 2 - запрос по client ID и через API сервиса Open Library](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_1/Client_id%26city.png)
+[Решение задачи 2 - запрос по client ID и городу через API сервиса Open Library](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_1/Client_id%26city.png)
 
 3. Сценарий Foursquare
 4. Напишите сценарий на языке Python, который предложит пользователю ввести интересующую его категорию (например, кофейни, музеи, парки и т.д.).
