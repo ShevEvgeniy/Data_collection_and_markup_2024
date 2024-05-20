@@ -25,7 +25,7 @@
 
 ## Урок 2. Парсинг HTML. BeautifulSoup
 Выполнить скрейпинг данных в веб-сайта http://books.toscrape.com/ и извлечь информацию о всех книгах на сайте во всех категориях: название, цену, количество товара в наличии (In stock (19 available)) в формате integer, описание.
-Решение задачи 1 - код в файле .ipynb
+[Решение задачи 1 - код в файле .ipynb](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_2/Lesson.ipynb)
 
 Затем сохранить эту информацию в JSON-файле.
-Решение задачи 2 - ссылка на JSON-файл
+[Решение задачи 2 - ссылка на JSON-файл](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_2/books_from_books.toscrape.com.json)
