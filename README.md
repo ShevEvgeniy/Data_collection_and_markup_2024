@@ -131,4 +131,3 @@
 
 Сохраните очищенный и преобразованный набор данных в новый CSV-файл под названием ['cleaned_house_prices.csv'](https://github.com/ShevEvgeniy/Data_collection_and_markup_2024/blob/main/Seminar_8/cleaned_house_prices.csv)
 
-Решение задачи - код в файле .ipynb
